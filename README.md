@@ -9,4 +9,3 @@
 - 📫 How to reach me: ... [Twitter](https://twitter.com/eremitik)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Japanese
--->
