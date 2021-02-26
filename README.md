@@ -1,16 +1,15 @@
-### Hi there 👋
+### Here is what I'm working on! 👋
 
-<!--
-**eremitik/eremitik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Dapps and my website
+- 🌱 I’m currently learning ... JS and Solidity
+- 👯 I’m looking to collaborate on ... anything blockchain related
+- 🤔 I’m looking for help with ... guidance on what to focus on at my stage
+- 💬 Ask me about ... the blockchain industry, been in since 2015!
+- 📫 How to reach me: ... crosby.alan@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am half Japanese
 -->
