@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... Blockchain
 - 🤔 I’m looking for help with ... Blockchain & Dapp development
 - 💬 Ask me about ... Crypto :)
-- 📫 How to reach me: ... crosby.alan@gmail.com
+- 📫 How to reach me: ... [Twitter](https://twitter.com/eremitik)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Japanese
 -->
