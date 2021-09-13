@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ... Blockchain & Dapp development
 - 💬 Ask me about ... Crypto :)
 - 📫 How to reach me: ... [Twitter](https://twitter.com/eremitik)
-- ✨ Visit my ... [Profile website](https://eremitik.github.io/mywebsite/#/)
+- ✨ Visit my ... [Portfolio website](https://eremitik.github.io/mywebsite/#/)
 - ⚔️ Visit my... [Codewars profile](https://www.codewars.com/users/eremitik)
 - 💻 Visit my... [Leetcode profile](https://leetcode.com/eremitik/)
 - ⚡ Fun fact: ... I am half Japanese
